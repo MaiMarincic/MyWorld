@@ -27,3 +27,6 @@ With the lines commented out the flag pictures are incorrect!
 
 Sometimes the graphs don't appear untill the GUI is closed!
 
+The .py and .ipynb are the same with the obv exception
+
+🐨❤
