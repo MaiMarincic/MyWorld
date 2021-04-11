@@ -23,7 +23,7 @@ Notes:
 In function $Country.compare(self, other)$ there are 2 lines of code that are commented out:
 ```flag = get_img(self.flag, "img1.jpg")```
 This is due to API "cloudConverter" only accepting up to 25 converts per day
-With the lines commented out the flag pictures are not incorrect!
+With the lines commented out the flag pictures are incorrect!
 
 Sometimes the graphs don't appear untill the GUI is closed!
 
