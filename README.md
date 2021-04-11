@@ -1,6 +1,6 @@
 # MyWorld
 
-Short program that compares and displayed data about countrys with a simple and friendly GPU
+Short program that compares and displayed data about countrys with a simple and friendly GUI
 
 To run the code you will need:
 
