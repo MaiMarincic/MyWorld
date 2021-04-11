@@ -1,2 +1,8 @@
 # MyWorld
-This is a project for FMF Prog2; It compares countries around the world
+
+Short program that compares and displayed data about countrys with a simple and friendly GPU
+
+To run the code you will need:
+
+* https://pypi.org/project/bs4/
+* https://pypi.org/project/bs4/
