@@ -18,7 +18,7 @@ To run the code you will need:
 * [plotly](https://pypi.org/project/plotly/)
 
 
-Notes:
+##Notes:
 
 In function $Country.compare(self, other)$ there are 2 lines of code that are commented out:
 ```flag = get_img(self.flag, "img1.jpg")```
